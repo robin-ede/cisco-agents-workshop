@@ -57,7 +57,7 @@ python run_all_tests.py --rich-output
 
 ![Screenshot 2025-04-08 at 8 07 48 PM](notebooks/img/eval.png)
 
-In additon, the `evaluate_triage.py` script will run the triage evaluation using the LangSmith `evaluate` API and log the results to LangSmith:
+In addition, the `evaluate_triage.py` script will run the triage evaluation using the LangSmith `evaluate` API and log the results to LangSmith:
 
 ```bash
 python -m eval.evaluate_triage
